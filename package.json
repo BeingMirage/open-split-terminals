@@ -2,11 +2,11 @@
   "name": "open-split-terminals",
   "displayName": "Open Split Terminals",
   "description": "Open selected folders in split integrated terminals",
-  "version": "0.0.1",
-  "publisher": "your-publisher-name",
+  "version": "0.0.2",
+  "publisher": "CapMirage",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/open-split-terminals.git"
+    "url": "https://github.com/BeingMirage/open-split-terminals.git"
   },
   "license": "MIT",
   "engines": {
